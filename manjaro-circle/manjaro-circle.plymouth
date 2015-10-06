@@ -1,11 +1,11 @@
 [Plymouth Theme]
-Name=manjaro-circle
+Name=Manjaro-circle
 Description=Round green Manjaro Plymouth Theme
 ModuleName=script
 
 [script]
 ImageDir=/usr/share/plymouth/themes/manjaro-circle
-ScriptFile=/usr/share/plymouth/themes/manjaro-extra-elegant/manjaro-circle.script
+ScriptFile=/usr/share/plymouth/themes/manjaro-circle/manjaro-circle.script
 
 [script-env-vars]
 example_env_var=example env var value
