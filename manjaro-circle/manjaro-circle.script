@@ -1,6 +1,6 @@
 # plymouth plugin script
 
-Window.SetBackgroundTopColor(0.00, 0.00, 0.12);
+Window.SetBackgroundTopColor(0.00, 0.00, 0.00);
 Window.SetBackgroundBottomColor(0.00, 0.00, 0.12);
 
 logo.image = Image("manjaro-circle.png");
