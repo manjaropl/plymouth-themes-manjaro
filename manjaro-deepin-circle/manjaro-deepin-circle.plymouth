@@ -5,4 +5,4 @@ ModuleName=script
 
 [script]
 ImageDir=/usr/share/plymouth/themes/manjaro-deepin-circle
-ScriptFile=/usr/share/plymouth/themes/manjaro-deepin/manjaro-deepin-circle.script
+ScriptFile=/usr/share/plymouth/themes/manjaro-deepin-circle/manjaro-deepin-circle.script
